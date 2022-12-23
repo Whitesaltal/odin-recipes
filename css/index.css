@@ -1,6 +1,7 @@
 body
     {
 background-color: black;
+    }
 p{
     color: blue;
     font-size: 70px;
@@ -10,4 +11,4 @@ h1{
     color: purple;
     font-size: 70px;
 }
-}
+
