@@ -1,9 +1,11 @@
 body {
 background-color: black;
-div{
-    color: pink;
-}
 p{
-    color: purple;
+    color: blue;
+    font-size: 70px;
 }
+}
+h1{
+    color: purple;
+    font-size: 70px;
 }
