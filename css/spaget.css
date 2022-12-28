@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(200, 188, 188);
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: rgb(215, 78, 57);
+    font-size: 55px;
+    hieght: 15
+}
+h2{
+    color: blueviolet;
+    font-size: 32px;
+}
+.bold{
+    color:darkcyan;
+    font-size: 32px;
+}
+button{
+    background-color: honeydew;
+}
